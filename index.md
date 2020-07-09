@@ -8,7 +8,7 @@
     Research interests: Remote sensing applied in carbon cyle;  Spatio-temporal big data mining
     Phone: +86 18813011016   Email: hezhh@radi.ac.cn
     Address: No.139 Qianjiang Road, Shangcheng District, Hangzhou, Zhejiang Province 310020
-    http://github.com/Zhonghua-He/毕业照片_贺忠华_201618007010059_遥感地球所.jpg
+    https://github.com/hezhonghua1992/Zhonghua-He/blob/master/ZhonghuaHe.jpg
     
 ### Work experience
     2019.07 – Now  Zhejiang Climate Center  Department of Ecological Remote Sensing  Engineer 

@@ -12,6 +12,8 @@
     
 ### Work experience
     2019.07 – Now  Zhejiang Climate Center  Department of Ecological Remote Sensing  Engineer 
+### Education 
+    2018.03 - 2019.03 Purdue University; Earth, Atmosphere, and 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

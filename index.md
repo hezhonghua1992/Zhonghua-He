@@ -1,13 +1,14 @@
 ## Welcome to Zhonghua He's personal website
 
 ### Personal information
-    Name: Zhonghua He   Sex: Male   Date of birth: 1992.04.09   Country: China
+    Name: Zhonghua He   Sex: Male   Date of birth: 1992.04.09   Country: China 
     Major: Cartography and geography information system
     Supervisor: Liping Lei and Lisa R. Welp
     Job: Zhejiang Climate Center
     Research interests: Remote sensing applied in carbon cyle;  Spatio-temporal big data mining
     Phone: +86 18813011016   Email: hezhh@radi.ac.cn
     Address: No.139 Qianjiang Road, Shangcheng District, Hangzhou, Zhejiang Province 310020
+    http://github.com/Zhonghua-He/毕业照片_贺忠华_201618007010059_遥感地球所.jpg
     
 ### Work experience
     2019.07 – Now  Zhejiang Climate Center  Department of Ecological Remote Sensing  Engineer 

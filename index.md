@@ -13,12 +13,13 @@
 ### Work experience
     2019.07 – Now  Zhejiang Climate Center  Department of Ecological Remote Sensing  Engineer 
 ### Education 
-    2018.03 - 2019.03 Purdue University; Department of Earth, Atmospheric, and Planetary Sciences; 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+    2018.03 - 2019.03 Purdue University; Department of Earth, Atmospheric, and Planetary Sciences; Environmental Geoscience
+                      Visiting Scholar; Supervisor: Lisa R. Welp
+    2014.09 - 2019.07 University of Chinese Academy of Sciences; Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences; 
+                      PhD; Supervisor: Liping Lei
+    2010.09 - 2014.07 Wuhan University; School of Remote Sensing and Information Engineering
+                      Bachelor; Supervisor: Zhaocong Wu
+### Aacademic Communication
 
 # 简历
 ## 个人信息

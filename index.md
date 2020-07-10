@@ -19,6 +19,7 @@
                       PhD; Supervisor: Liping Lei
     2010.09 - 2014.07 Wuhan University; School of Remote Sensing and Information Engineering
                       Bachelor; Supervisor: Zhaocong Wu
+
 ### Aacademic Communication
 
 **Bold** and _Italic_ and `Code` text

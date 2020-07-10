@@ -1,2 +1,2 @@
-# Zhonghua-He
+# Zhonghua-He's Resume
 ![image](./ZhonghuaHe.bmp)

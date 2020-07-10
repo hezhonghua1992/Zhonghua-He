@@ -1,4 +1,5 @@
 ## Welcome to Zhonghua He's personal website
+![image](./ZhonghuaHe.jpg)
 
 ### Personal information
     Name: Zhonghua He   Sex: Male   Date of birth: 1992.04.09   Country: China 
@@ -8,7 +9,6 @@
     Research interests: Remote sensing applied in carbon cyle;  Spatio-temporal big data mining
     Phone: +86 18813011016   Email: hezhh@radi.ac.cn
     Address: No.139 Qianjiang Road, Shangcheng District, Hangzhou, Zhejiang Province 310020
-    https://github.com/hezhonghua1992/Zhonghua-He/blob/master/ZhonghuaHe.jpg
     
 ### Work experience
     2019.07 – Now  Zhejiang Climate Center  Department of Ecological Remote Sensing  Engineer 

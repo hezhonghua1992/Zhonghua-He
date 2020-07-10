@@ -1,2 +1,2 @@
 # Zhonghua-He
-![image](./ZhonghuaHe.jpg)
+![image](./ZhonghuaHe.bmp)

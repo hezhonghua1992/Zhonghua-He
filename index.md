@@ -1,6 +1,5 @@
-![image](./ZhonghuaHe.jpg)
 ## Welcome to Zhonghua He's personal website
-
+![image](./ZhonghuaHe.jpg)
 ### Personal information
     Name: Zhonghua He   Sex: Male   Date of birth: 1992.04.09   Country: China 
     Major: Cartography and geography information system

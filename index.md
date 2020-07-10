@@ -1,4 +1,4 @@
-## Welcome to Zhonghua He's personal website
+## Zhonghua He's Resume
 ![image](./ZhonghuaHe.bmp)
 
 ### Personal information

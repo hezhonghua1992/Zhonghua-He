@@ -1,4 +1,3 @@
-## Zhonghua He's Resume
 ![image](./ZhonghuaHe.bmp)
 
 ### Personal information

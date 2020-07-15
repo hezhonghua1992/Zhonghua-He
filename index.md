@@ -4,11 +4,11 @@
     Name: Zhonghua He   
     Sex: Male   
     Date of birth: 1992.04
+    Phone: +86 18813011016   Email: hezhh@radi.ac.cn
+    Address: No.139 Qianjiang Road, Shangcheng District, Hangzhou, Zhejiang Province 310020, China
     Major: Cartography and geography information system
     Supervisor: Liping Lei and Lisa R. Welp
     Research interests: Remote sensing applied in carbon cyle;  Spatio-temporal big data mining
-    Phone: +86 18813011016   Email: hezhh@radi.ac.cn
-    Address: No.139 Qianjiang Road, Shangcheng District, Hangzhou, Zhejiang Province 310020, China
     
 ### Work experience
     2019.07 – Now  Zhejiang Climate Center  Department of Ecological Remote Sensing  Engineer 
@@ -68,8 +68,11 @@
     5.	Third-party libraries：Be skilled in using GDAL, OpenCV, etc for algorithm research of geographic data science.
     6.	Software ：Be skilled in using ArcGIS，Envi，Office，SPSS，Endnote, etc.
 
+### English ability 
+    1. Passed CET-4 and CET-6 and be skilled with English listening, speaking, reading and writing.
+    2. Can translate and write professional papers proficiently, and have strong English learning and communication skills. After the visiting study in Purdue University in the United States.
+    3. Strong ability of publicizing research results and communicating and learning, with  many times of international conferences Participating and oral reports.
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Awards
+    2017, Funding of University of Chinese Academy of Sciences International Cooperative Training Program.
+    2015, "Merit Student" and "Outstanding Student Cadre" in University of Chinese Academy of Sciences.

@@ -54,8 +54,8 @@
     雷莉萍，贺忠华 等；遥感监测绿皮书：中国可持续发展遥感监测报告（2017）：温室气体大气CO2浓度变化遥感监测报告（专题报告）；出版社：社会科学文献出版社；出版日期：2018年6月1日。
     
 ### Project   
-    1.  Spatiotemporal variation of atmospheric CO2 concentration in Zhejiang Province based on multi-source data fusion; Zhejiang Provincial Department of Science and Technology;100000 CHN; 2021.01-2023.12; In Charge
-    2.  Forest Fire Monitoring Project of Geostationary Satellite over Zhejiang Province; Zhejiang Provincial Emergency Response Department; 1280000 CHN; 2021.02-2022.01; In Charge
+    1.  Spatiotemporal variation of atmospheric CO2 concentration in Zhejiang Province based on multi-source data fusion; Zhejiang Provincial Department of Science and Technology;100000 CHN; 2021.01-2023.12; In Charge.
+    2.  Forest Fire Monitoring Project of Geostationary Satellite over Zhejiang Province; Zhejiang Provincial Emergency Response Department; 1280000 CHN; 2021.02-2022.01; In Charge.
     3.	Mountain flood geological disaster prevention and meteorological guarantee project of Zhejiang Climate Center 2020 construction project - ecological quality meteorological monitoring and evaluation construction project；China Meteorological Administration; 660000 CHN; 2020.01-2020.12；In Charge.
     4.  Ecological/emission data processing and collection project of the Yangtze River Delta urban agglomeration; Aerospace Information Research Institude - Chinese Academy of Sciences; 80000 CHN; 2020.07–2020.12; In Charge.
     5.	多源数据不确定对认知影响，全球变化大数据的科学认知与云共享平台子课题（国家重点研发计划子课题）；2016.7-2021.1；主要参与/Principle member.

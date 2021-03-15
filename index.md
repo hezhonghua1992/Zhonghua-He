@@ -5,9 +5,9 @@
     Sex: Male   
     Date of birth: 1992.04
     Phone: +86 18813011016   Email: hezhh@radi.ac.cn
-    Address: No.139 Qianjiang Road, Shangcheng District, Hangzhou, Zhejiang Province 310020, China
+    Address: No.256 Guokang Street,Changhe Street, Binjiang District, Hangzhou, Zhejiang Province 310052, China
     Major: Cartography and geography information system
-    Supervisor: Liping Lei and Lisa R. Welp
+    Supervisor: Liping Lei, Lisa R. Welp
     Research interests: Remote sensing applied in carbon cyle;  Spatio-temporal big data mining
     
 ### Work experience
@@ -33,21 +33,22 @@
                   Report: Response of seasonal cycle of carbon dioxide concentration to vegetation activity from satellite observation.
 
 ### Published Papers (Z.He/贺忠华)     
-    1.	Z. He, L. Lei, ..., L. R. Welp, "Evidence of Carbon Uptake Associated with Vegetation Greening Trends in Eastern China," Remote Sensing, vol. 12, p. 718, 2020b. （SCI）
-    2.	Z. He, L. Lei, Y. Zhang, et al., "Spatio-Temporal Mapping of Multi-Satellite Observed Column Atmospheric CO2 Using Precision-Weighted Kriging Method," Remote Sensing, vol. 12, p. 576, 2020. （SCI）
-    3.	Z.He, L.Lei, L.Welp, et al., "Detection of Spatiotemporal Extreme Changes in Atmospheric CO2 Concentration Based on Satellite Observations," Remote Sensing, vol. 10, p. 839, 2018. （SCI）
-    4.	Z.He, Z.-C.Zeng, L.Lei, et al., "A Data-Driven Assessment of Biosphere-Atmosphere Interaction Impact on Seasonal Cycle Patterns of XCO2 Using GOSAT and MODIS Observations," Remote Sensing, vol. 9, p. 251, 2017. （SCI）
-    5.	N.Bie, L.Lei, Z.He, et al., "Specific patterns of XCO2 observed by GOSAT during 2009–2016 and assessed with model simulations over China," Science China Earth Sciences. (SCI)
-    6.	Z.Zhang, L.Lei, Z.He, et al., "Tracking Changing Evidences of Water in Wetland Using the Satellite Long-Term Observations from 1984 to 2017," Water, vol. 12, p. 1602, 2020. (SCI)
-    7.	李正泉, 贺忠华, 胡中民. "气候与健康及气候康养研究进展," 海洋气象学报, vol.40(1), pp. 107-116, 2020.
-    8.	雷莉萍, 钟惠, 贺忠华, et al., "人为排放所引起大气CO2浓度变化的卫星遥感观测评估," 科学通报, pp. 2941-2950, 2017. （EI 期刊）
-    9.	X.Qin, L.Lei, Z.He, et al., "Preliminary Assessment of Methane Concentration Variation Observed by GOSAT in China," Advances in Meteorology, vol. 2015, pp. 1-11, 2015. （SCI）
-    10.	S.Yang, L.Lei, Z.-C.Zeng, Z.H et al., “An Assessment of Anthropogenic CO2 Emissions by Satellite-Based Observations in China” Sensors, vol 19, p. 1118, 2019. (SCI, 三区)
-    11.	N.Bie, L.Lei, ... Z.He, et al., "Regional uncertainty of GOSAT XCO2 retrievals in China: quantification and attribution," Atmospheric Measurement Techniques, vol. 11, pp. 1251-1272, 2018. （SCI）
-    12.	Z.He, L.Lei, and Z.C.Zeng, "Response of seasonal cycle of carbon dioxide concentration to vegetation activity from satellite observation," in IGARSS 2016 - 2016 IEEE International Geoscience and Remote Sensing Symposium, 2016, pp. 5350-5353. （EI）
-    13.	N.Bie, L.Lei, Z.He, and M.Liu, "An analysis of atmospheric CO2 concentration around the takelamagan desert with five products retrieved from satellite observations," in Geoscience and Remote Sensing Symposium, 2016, pp. 4087-4089. （EI）
-    14.	Y.Wang, H.Zhou, H.Xu, Z.He, et al., "A System of Satellites Observing High Resolution Images Support in Road Traffic Environment," in International Conference on Electronic Industry and Automation, 2017. 
-    15.	Y.Wang, H.Zhou, H.Xu, Z.He, et al., "Extraction of road congestion information by change detection of multi-temporal satellite observing images," in International Conference on Advanced Electronic Science and Technology, 2016. 
+    1.	Z. He, L. Lei, ..., L. R. Welp, "Evidence of Carbon Uptake Associated with Vegetation Greening Trends in Eastern China," Remote Sensing, vol. 12, p. 718, 2020b.
+    2.	Z. He, L. Lei, Y. Zhang, et al., "Spatio-Temporal Mapping of Multi-Satellite Observed Column Atmospheric CO2 Using Precision-Weighted Kriging Method," Remote Sensing, vol. 12, p. 576, 2020.
+    3.	Z.He, L.Lei, L.Welp, et al., "Detection of Spatiotemporal Extreme Changes in Atmospheric CO2 Concentration Based on Satellite Observations," Remote Sensing, vol. 10, p. 839, 2018.
+    4.	Z.He, Z.-C.Zeng, L.Lei, et al., "A Data-Driven Assessment of Biosphere-Atmosphere Interaction Impact on Seasonal Cycle Patterns of XCO2 Using GOSAT and MODIS Observations," Remote Sensing, vol. 9, p. 251, 2017.
+    5.	Z.He, Y.Zhang, Y.He, X.Zhang, J.Cai, L.Lei. "Trends of Vegetation Change and Driving Factor Analysis in Recent 20 Years over Zhejiang Province," Ecology and Environmental Science, vol. 29, pp. 1530-1539, 2020.
+    6.	N.Bie, L.Lei, Z.He, et al., "Specific patterns of XCO2 observed by GOSAT during 2009–2016 and assessed with model simulations over China," Science China Earth Sciences.
+    7.	Z.Zhang, L.Lei, Z.He, et al., "Tracking Changing Evidences of Water in Wetland Using the Satellite Long-Term Observations from 1984 to 2017," Water, vol. 12, p. 1602, 2020.
+    8.	李正泉, 贺忠华, 胡中民. "气候与健康及气候康养研究进展," 海洋气象学报, vol.40(1), pp. 107-116, 2020.
+    9.	雷莉萍, 钟惠, 贺忠华, et al., "人为排放所引起大气CO2浓度变化的卫星遥感观测评估," 科学通报, pp. 2941-2950, 2017.
+    10.	X.Qin, L.Lei, Z.He, et al., "Preliminary Assessment of Methane Concentration Variation Observed by GOSAT in China," Advances in Meteorology, vol. 2015, pp. 1-11, 2015.
+    11.	S.Yang, L.Lei, Z.-C.Zeng, Z.H et al., “An Assessment of Anthropogenic CO2 Emissions by Satellite-Based Observations in China” Sensors, vol 19, p. 1118, 2019.
+    12.	N.Bie, L.Lei, ... Z.He, et al., "Regional uncertainty of GOSAT XCO2 retrievals in China: quantification and attribution," Atmospheric Measurement Techniques, vol. 11, pp. 1251-1272, 2018.
+    13.	Z.He, L.Lei, and Z.C.Zeng, "Response of seasonal cycle of carbon dioxide concentration to vegetation activity from satellite observation," in IGARSS 2016 - 2016 IEEE International Geoscience and Remote Sensing Symposium, 2016, pp. 5350-5353.
+    14.	N.Bie, L.Lei, Z.He, and M.Liu, "An analysis of atmospheric CO2 concentration around the takelamagan desert with five products retrieved from satellite observations," in Geoscience and Remote Sensing Symposium, 2016, pp. 4087-4089.
+    15.	Y.Wang, H.Zhou, H.Xu, Z.He, et al., "A System of Satellites Observing High Resolution Images Support in Road Traffic Environment," in International Conference on Electronic Industry and Automation, 2017. 
+    16.	Y.Wang, H.Zhou, H.Xu, Z.He, et al., "Extraction of road congestion information by change detection of multi-temporal satellite observing images," in International Conference on Advanced Electronic Science and Technology, 2016. 
 
 ### Published book   
     雷莉萍，贺忠华 等；遥感监测绿皮书：中国可持续发展遥感监测报告（2017）：温室气体大气CO2浓度变化遥感监测报告（专题报告）；出版社：社会科学文献出版社；出版日期：2018年6月1日。

@@ -40,8 +40,8 @@
     5.	Z.He, Y.Zhang, Y.He, X.Zhang, J.Cai, L.Lei. "Trends of Vegetation Change and Driving Factor Analysis in Recent 20 Years over Zhejiang Province," Ecology and Environmental Science, vol. 29, pp. 1530-1539, 2020.
     6.	N.Bie, L.Lei, Z.He, et al., "Specific patterns of XCO2 observed by GOSAT during 2009–2016 and assessed with model simulations over China," Science China Earth Sciences.
     7.	Z.Zhang, L.Lei, Z.He, et al., "Tracking Changing Evidences of Water in Wetland Using the Satellite Long-Term Observations from 1984 to 2017," Water, vol. 12, p. 1602, 2020.
-    8.	李正泉, 贺忠华, 胡中民. "气候与健康及气候康养研究进展," 海洋气象学报, vol.40(1), pp. 107-116, 2020.
-    9.	雷莉萍, 钟惠, 贺忠华, et al., "人为排放所引起大气CO2浓度变化的卫星遥感观测评估," 科学通报, pp. 2941-2950, 2017.
+    8.	Z.Li, Z.He, Z.Hu. "Review of the research on relationship between climate and healthcare," Journal of Marine Meteorology, vol.40(1), pp. 107-116, 2020.
+    9.	L.Lei, H.Zhong, Z.He, et al., "Assessment of atmospheric CO_2 concentration enhancement from anthropogenic emissions based on satellite observations," Chinese Science Bulletin, pp. 2941-2950, 2017.
     10.	X.Qin, L.Lei, Z.He, et al., "Preliminary Assessment of Methane Concentration Variation Observed by GOSAT in China," Advances in Meteorology, vol. 2015, pp. 1-11, 2015.
     11.	S.Yang, L.Lei, Z.-C.Zeng, Z.H et al., “An Assessment of Anthropogenic CO2 Emissions by Satellite-Based Observations in China” Sensors, vol 19, p. 1118, 2019.
     12.	N.Bie, L.Lei, ... Z.He, et al., "Regional uncertainty of GOSAT XCO2 retrievals in China: quantification and attribution," Atmospheric Measurement Techniques, vol. 11, pp. 1251-1272, 2018.

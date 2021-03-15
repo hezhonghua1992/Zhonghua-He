@@ -32,7 +32,7 @@
                   China, Beijing;
                   Report: Response of seasonal cycle of carbon dioxide concentration to vegetation activity from satellite observation.
 
-### Published Papers (Z.He/贺忠华)     
+### Published Papers (Z.He)     
     1.	Z.He, L.Lei, ..., L.R.Welp, "Evidence of Carbon Uptake Associated with Vegetation Greening Trends in Eastern China," Remote Sensing, vol. 12, p. 718, 2020b.
     2.	Z.He, L.Lei, Y.Zhang, et al., "Spatio-Temporal Mapping of Multi-Satellite Observed Column Atmospheric CO2 Using Precision-Weighted Kriging Method," Remote Sensing, vol. 12, p. 576, 2020.
     3.	Z.He, L.Lei, L.Welp, et al., "Detection of Spatiotemporal Extreme Changes in Atmospheric CO2 Concentration Based on Satellite Observations," Remote Sensing, vol. 10, p. 839, 2018.

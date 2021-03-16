@@ -14,23 +14,20 @@
     2019.07–Now,  Zhejiang Climate Center,  Department of Ecological Remote Sensing,  Engineer. 
 
 ### Education 
-    2018.03-2019.03, Purdue University; Department of Earth, Atmospheric, and Planetary Sciences; Environmental Geoscience;
-                       Visiting Scholar; Supervisor: Lisa R. Welp.
-    2014.09-2019.07, University of Chinese Academy of Sciences; Institute of Remote Sensing and Digital Earth; Chinese Academy of Sciences; 
-                       PhD; Supervisor: Liping Lei.
+    2018.03-2019.03, Purdue University; Department of Earth, Atmospheric, and Planetary Sciences; 
+                     Environmental Geoscience; Visiting Scholar; Supervisor: Lisa R. Welp.
+    2014.09-2019.07, University of Chinese Academy of Sciences; Institute of Remote Sensing and Digital Earth; 
+                     Chinese Academy of Sciences; PhD; Supervisor: Liping Lei.
     2010.09-2014.07, Wuhan University; School of Remote Sensing and Information Engineering;
-                       Bachelor; Supervisor: Zhaocong Wu.
+                     Bachelor; Supervisor: Zhaocong Wu.
 
 ### Aacademic Communication
-    2018.12.10-14 American Geophysical Union (AGU) Fall Meeting; 
-                  USA, Washington DC;
-                  Report: Satellite-observed enhanced carbon sink with local greening in China.
-    2017.6.6-8    13th International Workshop on Greenhouse Gas Measurements from Space; 
-                  Finland, Helsinki;
-                  Report: Investigating Biosphere-Atmosphere Interactions using XCO2 and MODIS vegetation parameters: A comparison study of GOSAT retrievals and model simulations.
-    2016.7.10-15  2016 International Geoscience and Remote Sensing Symposium (IGARSS); 
-                  China, Beijing;
-                  Report: Response of seasonal cycle of carbon dioxide concentration to vegetation activity from satellite observation.
+    2018.12.10-14 American Geophysical Union (AGU) Fall Meeting; USA, Washington DC;
+      Report: Satellite-observed enhanced carbon sink with local greening in China.
+    2017.6.6-8    13th International Workshop on Greenhouse Gas Measurements from Space; Finland, Helsinki;
+      Report: Investigating Biosphere-Atmosphere Interactions using XCO2 and MODIS vegetation parameters: A comparison study of GOSAT retrievals and model simulations.
+    2016.7.10-15  2016 International Geoscience and Remote Sensing Symposium (IGARSS); China, Beijing;
+      Report: Response of seasonal cycle of carbon dioxide concentration to vegetation activity from satellite observation.
 
 ### Published Papers (Z.He)     
     1. Z.He, L.Lei, ..., L.R.Welp, "Evidence of Carbon Uptake Associated with Vegetation Greening Trends in Eastern China," Remote Sensing, vol. 12, p. 718, 2020b.

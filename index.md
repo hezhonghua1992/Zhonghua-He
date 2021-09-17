@@ -4,7 +4,7 @@
     Name: Zhonghua He   
     Sex: Male   
     Date of birth: 1992.04
-    Phone: +86 18813011016   Email: hezhh@radi.ac.cn
+    Email: hezhh@radi.ac.cn
     Address: No.256 Guokang Street,Changhe Street, Binjiang District, Hangzhou, Zhejiang Province 310052, China
     Major: Cartography and geography information system
     Supervisor: Liping Lei, Lisa R. Welp
